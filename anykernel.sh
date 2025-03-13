@@ -55,7 +55,7 @@ else
 fi
 ## end boot install
 
-ui_print "Power by GitHub@Numbersf(Aq1298&咿云冷雨)"
+#ui_print "Power by GitHub@Numbersf(Aq1298&咿云冷雨)"
 KSUD_PATH="/data/adb/ksud"
 MAGISK_DB_PATH="/data/adb/magisk.db"
 MODULE_PATH="$AKHOME/ksu_module_susfs_1.5.2+.zip"
